@@ -7,7 +7,7 @@ import geopandas as gpd
 #Import folium and related plugins
 import folium
 from folium import Marker
-from folium.plugins import MarketCluster
+from folium.plugins import MarkerCluster
 
 #Geopy's Nomination
 from geopy.geocoders import Nominatim
